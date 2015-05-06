@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-84ac5b275b352397605bd374d5561ddc236655c8.jar" />
+    </item>
+    <item
+        jar="/home/angel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/gson-2.3.1-60938edb607ef9df3714b8ca144bf89e258918e4.jar" />
+    </item>
+    <item
+        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/classes-fbb411306f02e66fb76e1654e0c10008462a7abd.jar" />
+    </item>
+    <item
+        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/classes-4838c4d3c424d9914cb3793436ad9e0a35518f2d.jar" />
+    </item>
+    <item
+        jar="/home/angel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-1498ab3d853fe03f91b21aab1206c154a1ef9ec0.jar" />
+    </item>
+
+</items>
