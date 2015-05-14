@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-84ac5b275b352397605bd374d5561ddc236655c8.jar" />
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/classes-48e39e0d896d7da5784de4760ff6be62056d13d6.jar" />
+    </item>
+    <item
+        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/classes-aaebbb795a84a12bf6c199f20b577a12bfd19114.jar" />
+    </item>
+    <item
+        jar="/home/angel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e8cca2b0639d40e69bf3c05493d0fa7e031841e7.jar" />
     </item>
     <item
         jar="/home/angel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
@@ -16,25 +30,11 @@
         <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/gson-2.3.1-60938edb607ef9df3714b8ca144bf89e258918e4.jar" />
     </item>
     <item
-        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/classes-fbb411306f02e66fb76e1654e0c10008462a7abd.jar" />
-    </item>
-    <item
-        jar="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/classes-4838c4d3c424d9914cb3793436ad9e0a35518f2d.jar" />
-    </item>
-    <item
-        jar="/home/angel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-1498ab3d853fe03f91b21aab1206c154a1ef9ec0.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/angel/dsa-projects/beeter-project/beeter-android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cfadcffd97b15483dd39eedbff699ee0e2fc0309.jar" />
     </item>
 
 </items>
